@@ -1,3 +1,5 @@
+/* coded in Google Colab, Used T4 GPU */
+
 # **Library**
 
 import os
